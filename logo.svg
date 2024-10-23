@@ -1,4 +1,4 @@
 <svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-  <image href="data:image/png;base64,PUT_BASE64_IMAGE_DATA_HERE" width="512" height="512" id="logo" />
+  <image href="https://raw.githubusercontent.com/Ropuia/upc_logo_preloading/refs/heads/main/logo.png" width="512" height="512" id="logo" />
   <animateTransform attributeName="transform" type="scale" begin="0s" dur="3s" values="1; 1.2; 1" repeatCount="indefinite" />
 </svg>
